@@ -1,0 +1,5 @@
+*.DS_STORE
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
